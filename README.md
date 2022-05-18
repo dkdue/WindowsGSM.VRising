@@ -3,9 +3,9 @@
 <p align="Center">
   <img alt="GitHub release (latest by date including pre-releases)" src="https://img.shields.io/github/v/release/dkdue/SteamCMD-Dedicated-Server?color=seagreen&include_prereleases">
   <img src="https://img.shields.io/badge/status-Beta-blue" />
-  <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/dkdue/SteamCMD-Dedicated-Server/total?color=orange&label=downloads">
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/dkdue/SteamCMD-Dedicated-Server?color=crimson">
-  <img alt="Visitor Count" src="https://visitor-badge.glitch.me/badge?page_id=dkdue.SteamCMD-Dedicated-Server">
+  <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/dkdue/WindowsGSM.VRising/total?color=orange&label=downloads">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/dkdue/WindowsGSM.VRising?color=crimson">
+  <img alt="Visitor Count" src="https://visitor-badge.glitch.me/badge?page_id=dkdue.WindowsGSM.VRising">
 </p>
 
 
