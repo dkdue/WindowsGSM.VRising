@@ -17,17 +17,29 @@ ServerHostSettings.json
 {
 
 "Name" : "My V Rising Server",
+
 "Description" : "This is a role playing server",
+
 "Port" : 27015,
+
 "QueryPort" : 27016,
+
 "MaxConnectedUsers" : 10,
+
 "MaxConnectedAdmins" : 4,
+
 "SaveName" : "world1",
+
 "Password" : "SuperSecret",
+
 "ListOnMasterServer" : true,
+
 "AutoSaveCount" : 40,
+
 "AutoSaveInterval" : 120,
+
 "GameSettingsPreset" : "StandardPvP"
+
 }
 
 More info can be found here:
