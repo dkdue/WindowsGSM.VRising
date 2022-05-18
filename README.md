@@ -8,8 +8,6 @@
   <img alt="Visitor Count" src="https://visitor-badge.glitch.me/badge?page_id=dkdue.SteamCMD-Dedicated-Server">
 </p>
 
-# WindowsGSM.VRising
-🧩WindowsGSM plugin that provides VRising Dedicated server support!
 
 # The Game
 https://store.steampowered.com/app/1604030/V_Rising/
