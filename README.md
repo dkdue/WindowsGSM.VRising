@@ -57,3 +57,11 @@ ServerHostSettings.json
 More info can be found here:
 
 https://github.com/StunlockStudios/vrising-dedicated-server-instructions
+
+# Installation
+  1. Download the latest release
+  2. Move VRising.cs folder to plugins folder
+  3. Click [RELOAD PLUGINS] button or restart WindowsGSM
+
+# License
+This project is licensed under the MIT License - see the <a href="https://github.com/dkdue/WindowsGSM.VRising/blob/main/LICENSE">LICENSE.md</a> file for details
