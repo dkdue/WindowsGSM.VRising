@@ -1,4 +1,4 @@
-<img src="https://socialify.git.ci/dkdue/SteamCMD-Dedicated-Server/image?description=1&font=Inter&forks=1&issues=1&language=1&owner=1&pattern=Floating%20Cogs&pulls=1&stargazers=1&theme=Light" alt="Banner" width="768"/>
+<img src="https://socialify.git.ci/dkdue/WindowsGSM.VRising/image?description=1&font=Inter&forks=1&issues=1&language=1&owner=1&pattern=Floating%20Cogs&pulls=1&stargazers=1&theme=Light" alt="Banner" width="768"/>
 
 <p align="Center">
   <img alt="GitHub release (latest by date including pre-releases)" src="https://img.shields.io/github/v/release/dkdue/SteamCMD-Dedicated-Server?color=seagreen&include_prereleases">
