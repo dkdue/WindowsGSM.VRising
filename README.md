@@ -1,7 +1,7 @@
 <img src="https://socialify.git.ci/dkdue/WindowsGSM.VRising/image?description=1&font=Inter&forks=1&issues=1&language=1&owner=1&pattern=Floating%20Cogs&pulls=1&stargazers=1&theme=Light" alt="Banner" width="768"/>
 
 <p align="Center">
-  <img alt="GitHub release (latest by date including pre-releases)" src="https://img.shields.io/github/v/release/dkdue/SteamCMD-Dedicated-Server?color=seagreen&include_prereleases">
+  <img alt="GitHub release (latest by date including pre-releases)" src="https://img.shields.io/github/v/release/dkdue/WindowsGSM.VRising?color=seagreen&include_prereleases">
   <img src="https://img.shields.io/badge/status-Beta-blue" />
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/dkdue/WindowsGSM.VRising?color=crimson">
   <img alt="Visitor Count" src="https://visitor-badge.glitch.me/badge?page_id=dkdue.WindowsGSM.VRising">
