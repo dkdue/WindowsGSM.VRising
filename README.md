@@ -6,7 +6,9 @@ https://store.steampowered.com/app/1604030/V_Rising/
 
 # Important
 *Your local save files are located within this area on your computer 
+
 "%USERPROFILE%\AppData\LocalLow\Stunlock Studios\VRisingServer\Saves"
+
  However, just like with the settings, this can be overridden with the -persistentDataPath parameter.
 
 # Configuring your V Rising Server
