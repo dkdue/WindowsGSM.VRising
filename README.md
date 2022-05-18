@@ -16,9 +16,9 @@ Now comes the fun part, setting up your V Rising game server to your liking.
 
 To modify game server settings you can create two files
 
-ServerHostSettings.json
+-ServerHostSettings.json
 
-ServerGameSettings.json
+-ServerGameSettings.json
 
 You can create these files in your VRisingServer\Settings folder
 
